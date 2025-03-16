@@ -1,7 +1,8 @@
-## Hi there 👋
 
 👋 Hey there! I'm Annison Van
 SF-based Software Engineer in Training | CS @ SFSU
+
+🎓 Computer Science @ SFSU | Expected Graduation: Spring 2025
 
 🚀 Currently learning full-stack development (React, Node.js, Express.js) through a Udemy course. Passionate about building efficient and scalable applications.
 
