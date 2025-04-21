@@ -4,7 +4,8 @@ SF-based Software Engineer | CS @ SFSU
 
 🎓 Computer Science @ SFSU | Expected Graduation: Spring 2025
 
-🚀 Currently learning Full-Stack development through a Udemy course. Passionate about building efficient and scalable applications to become a Full-Stack Developer.
+🚀 Currently learning Full-Stack development through a Udemy course. Passionate about building efficient and scalable applications to become a Full-Stack Developer. 
+    Some Tools I am currently learning are Node, and Express.
 
 🎮 Outside of coding, I enjoy gaming, working out, and watching anime.
 
