@@ -1,12 +1,17 @@
-
 👋 Hey there! I'm Annison Van
-SF-based Software Engineer | CS @ SFSU
+SF-based Software Engineer | Computer Science @ SFSU
 
-🎓 Computer Science @ SFSU | Expected Graduation: Spring 2025
+🎓 Computer Science student at San Francisco State University
+📅 Expected Graduation: Spring 2025
 
-🚀 Currently learning Full-Stack development through a Udemy course. Passionate about building efficient and scalable applications to become a Full-Stack Developer. 
-    Some Tools I am currently learning are Node, and Express.
+🚀 Currently diving deep into Full-Stack Development through a Udemy course.
+I'm passionate about building efficient, scalable applications.
+Technologies I'm learning: Node.js, Express, and more!
 
 🎮 Outside of coding, I enjoy gaming, working out, and watching anime.
 
 📫 Let’s connect!
+
+https://www.linkedin.com/in/annisonvan/
+
+Annisonv1@gmail.com
