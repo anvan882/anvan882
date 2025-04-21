@@ -1,6 +1,6 @@
 
 👋 Hey there! I'm Annison Van
-SF-based Software Engineer in Training | CS @ SFSU
+SF-based Software Engineer | CS @ SFSU
 
 🎓 Computer Science @ SFSU | Expected Graduation: Spring 2025
 
